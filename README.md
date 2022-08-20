@@ -19,3 +19,9 @@ Arch (also Manjaro)
 ```bash
 sudo pacman -S python
 ```
+### Run Script
+```bash
+wget https://raw.githubusercontent.com/tadghh/LinuxChromeDarkMode/main/ChromeDarkMode.py
+sudo python3 ChromeDarkMode.py
+rm ChromeDarkMode.py
+```
