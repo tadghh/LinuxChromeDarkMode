@@ -1,6 +1,6 @@
 # Linux Chrome System Dark Mode
 
-Forces chrome to run in dark mode. So chrome pages and sites that match the systems theme will be dark.
+Forces chrome to run in dark mode. Chrome pages and websites will start in dark mode by default (Twitter, Youtube...).
 
 ### Required Packages
 
